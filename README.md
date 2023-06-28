@@ -1,2 +1,0 @@
-# mavenproject
-maven project deployed
